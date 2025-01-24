@@ -1,0 +1,23 @@
+# Import the Catppuccin Mocha theme
+general.import = [
+  "~/.config/alacritty/catppuccin-mocha.toml"
+]
+
+# Padding configuration (add padding to the top and bottom)
+window.padding.x = 10
+window.padding.y = 10
+
+[font]
+normal.family = "JetBrains Mono Nerd Font"
+normal.style = "Regular"
+
+bold.family = "JetBrains Mono Nerd Font"
+bold.style = "Bold"
+
+italic.family = "JetBrains Mono Nerd Font"
+italic.style = "Italic"
+
+bold_italic.family = "JetBrains Mono Nerd Font"
+bold_italic.style = "Bold Italic"
+
+size = 8
